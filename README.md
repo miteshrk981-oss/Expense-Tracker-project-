@@ -55,10 +55,9 @@ python "expense tracker.py"
 Add screenshots of your application here.
 
 Example:
+<img width="1007" height="835" alt="expense_Tracker" src="https://github.com/user-attachments/assets/f660f2e9-bf15-441c-93f2-b62e8d9618ab" />
 
-```markdown
-![Expense Tracker GUI](screenshots/expense-tracker.png)
-```
+
 
 ## 📚 What I Learned
 
